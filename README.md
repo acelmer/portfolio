@@ -5,6 +5,8 @@
 
 :white_check_mark: [Jira Software Fundamentals](https://university.atlassian.com/student/award/P43BSbv88LpUbwXEpJZB1Xfk)
 
+:white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
+
 ## Tools
 - **Jira**
 
