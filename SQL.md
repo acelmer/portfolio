@@ -40,10 +40,7 @@ JOIN admissions AS a ON p.patient_id = a.patient_id
 JOIN doctors AS d ON a.attending_doctor_id = d.doctor_id
 WHERE diagnosis = 'Epilepsy' AND d.first_name = 'Lisa'
 ```
-### Task 4 - All patients who have gone through admissions, can see their medical documents on our site. Those patients are given a temporary password after their first admission. Show the patient_id and temp_password. The password must be the following, in order:
-1. patient_id
-2. the numerical length of patient's last_name
-3. year of patient's birth_date
+### Task 4 - All patients who have gone through admissions, can see their medical documents on our site. Those patients are given a temporary password after their first admission. Show the patient_id and temp_password. The password must be the following, in order: patient_id, the numerical length of patient's last_name, year of patient's birth_date.
 
 ```sql
 SELECT DISTINCT p.patient_id, concat(p.patient_id,len(last_name),year(birth_date)) AS temp_password
@@ -57,6 +54,5 @@ SELECT province_name
 FROM patients AS p
 JOIN province_names AS p_n on p.province_id = p_n.province_id
 GROUP BY province_name
-HAVING
-	COUNT( CASE WHEN gender = 'M' THEN 1 END) > COUNT( CASE WHEN gender = 'F' THEN 1 END)
+HAVING COUNT( CASE WHEN gender = 'M' THEN 1 END) > COUNT( CASE WHEN gender = 'F' THEN 1 END)
 ```
