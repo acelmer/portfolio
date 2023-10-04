@@ -1,5 +1,8 @@
 # Software Tester - portfolio
 
+## Projects
+:white_square_button: [SQL - Advanced tasks](SQL.md)
+
 ## Certificates
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
