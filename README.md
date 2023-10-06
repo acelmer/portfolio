@@ -6,6 +6,8 @@
 ## Certificates
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
+:white_check_mark: [Postman API Fundamentals Student Expert](https://drive.google.com/drive/folders/1D2jET3UnvgpH-ei2CpCQ4OnCry5s58n6)
+
 :white_check_mark: [Jira Software Fundamentals](https://university.atlassian.com/student/award/P43BSbv88LpUbwXEpJZB1Xfk)
 
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
