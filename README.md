@@ -17,11 +17,13 @@
 
 - **Confluence**
 
+- **Postamn**
+
 ## Technical skills
 
 - **SQL**
-- **Python** basics
-- **HTML/CSS** basics
+- **Python basics**
+- **HTML/CSS basics**
 
 ## Soft skills
 - **Team player**
