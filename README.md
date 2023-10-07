@@ -1,9 +1,13 @@
 # Software Tester - portfolio
 
-## Projects
+## PROJECTS
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
-## Certificates
+- ## Bug Report - example 
+
+:white_square_button: [Inpost Web Application](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
+
+## CERTIFICATES
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
 :white_check_mark: [Postman API Fundamentals Student Expert](https://drive.google.com/file/d/1zcR4zhPTtEmgdxzC-ZyQsk5D5v0dnw9d/view?usp=drive_link)
@@ -12,20 +16,20 @@
 
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
 
-## Tools
+## TOOLS
 - **Jira**
 
 - **Confluence**
 
 - **Postman**
 
-## Technical skills
+## TECHNICAL SKILLS
 
 - **SQL**
 - **Python basics**
 - **HTML/CSS basics**
 
-## Soft skills
+## SOFT SKILLS
 - **Team player**
   
 - **Analytical mindset**
