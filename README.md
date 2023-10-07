@@ -17,7 +17,7 @@
 
 - **Confluence**
 
-- **Postamn**
+- **Postman**
 
 ## Technical skills
 
