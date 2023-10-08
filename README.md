@@ -3,10 +3,12 @@
 ## PROJECTS
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
-- ## Bug Report - example ![image](https://github.com/acelmer/portfolio/assets/145276189/21d5869d-61c3-4bc9-b7fd-8d8501035b28)
+- ## Bug Report - example
 
+Test environment: InPost Web Application
 
-:white_square_button: [InPost Web Application](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
+:white_square_button:<img src="https://github.com/acelmer/portfolio/assets/145276189/eeaf36d8-982f-480b-84d0-edc1ea4d4b85" align="center" width="100" height="50"> [Web Application](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
+
 
 ## CERTIFICATES
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
