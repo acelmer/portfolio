@@ -3,7 +3,8 @@
 ## PROJECTS
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
-- ## Bug Report - example
+- ## Bug Report - example <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+
 
 Test environment: InPost Web Application
 
