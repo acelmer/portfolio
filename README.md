@@ -3,7 +3,8 @@
 ## PROJECTS
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
-- ## Bug Report - example 
+- ## Bug Report - example ![image](https://github.com/acelmer/portfolio/assets/145276189/21d5869d-61c3-4bc9-b7fd-8d8501035b28)
+
 
 :white_square_button: [InPost Web Application](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
 
