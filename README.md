@@ -3,9 +3,15 @@
 ## PROJECTS
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
-- ## Bug Report - example <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+## Test Cases
+- **Test Cases based on Use Case**
+  
+:white_square_button: [Empik Web Application Use Case & Test Cases](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
-:white_square_button: <img src="https://github.com/acelmer/portfolio/assets/145276189/eeaf36d8-982f-480b-84d0-edc1ea4d4b85" align="center" width="100" height="50">[Web Application](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
+## Bug Report - example <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+<img src="https://github.com/acelmer/portfolio/assets/145276189/eeaf36d8-982f-480b-84d0-edc1ea4d4b85" align="center" width="100" height="50">**Web Application Testing**
+
+:white_square_button: [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
 
 ## CERTIFICATES
