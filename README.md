@@ -1,6 +1,11 @@
 # Software Tester - portfolio
+<p>
+align="center"
+<img src="https://github.com/acelmer/portfolio/assets/145276189/feea1f7b-ccf1-40bd-adc8-f4543a76d993" width="400" height="200">
+</p>
 
 ## PROJECTS
+## SQL Tasks
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
 ## Test Cases
@@ -33,6 +38,8 @@
 - **Confluence**
 
 - **Postman**
+
+- **GitHub**
 
 ## TECHNICAL SKILLS
 
