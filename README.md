@@ -1,4 +1,4 @@
-# Software Tester portfolio - Aleksandra Celmer
+# Aleksandra Celmer - Software Tester portfolio  
 
 <p align="center" </p>
 <img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
