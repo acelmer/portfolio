@@ -13,7 +13,7 @@
 
 <p align="center" </p><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</p></a></b></a>
 
-## Projects <a name="projects"></a>
+## Projects <img src="https://github.com/acelmer/portfolio/assets/145276189/2e6edf10-51f5-4821-af32-aece90a2b6b5" align="center" width="45" height="45"> 
 
 :white_square_button:**Test cases based on use case**
   
@@ -36,7 +36,7 @@
 - [Postman Library API Collection](Postman%20Library%20API.postman_collection.json)
 
 
-## Certificates <a name="certificates"></a>
+## Certificates <img src="https://github.com/acelmer/portfolio/assets/145276189/96f37b77-65d6-4515-a46d-2170cfd5f3b1" align="center" width="50" height="50"> 
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
 :white_check_mark: [Postman API Fundamentals Student Expert](https://drive.google.com/file/d/1zcR4zhPTtEmgdxzC-ZyQsk5D5v0dnw9d/view?usp=drive_link)
@@ -45,7 +45,7 @@
 
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
 
-## Skills <a name="skills"></a>
+## Skills <img src="https://github.com/acelmer/portfolio/assets/145276189/75ade191-fdfe-44c5-8974-0cd7770d1652" align="center" width="45" height="45"> 
 
 :white_square_button:<b>Tools</b>: Jira, Confluence, Postman, GitHub, SAP, Microsoft Teams, MS Office
 
