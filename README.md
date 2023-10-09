@@ -4,6 +4,7 @@
 <img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
 </p>
 
+
 ## Table of contents
 **:black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[SKILLS](#skills)**
 
@@ -14,6 +15,8 @@
 
 
 <p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
+
+<p align="center" </p><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</p></a>
 
 
 ## Projects <a name="projects"></a>
