@@ -1,11 +1,17 @@
 # Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
-
-
-> Highlights information that users should take into account, even when skimming.
-
 ## Table of contents
+<img style="float: right;" src="https://github.com/acelmer/portfolio/assets/145276189/4a585771-f9bb-4af1-a3e2-a876c11295c6">
+**:black_square_button:[ABOUT ME](#introduction) 
+:black_square_button:[PROJECTS](#projects)   
+:black_square_button:[CERTIFICATES](#certificates)  
+:black_square_button:[TOOLS](#tools)  
+:black_square_button:[TECHNICAL SKILLS](#technicalskills) 
+:black_square_button:[SOFT SKILLS](#softskills)**
+<p align="right" </p>
+<img src="https://github.com/acelmer/portfolio/assets/145276189/4a585771-f9bb-4af1-a3e2-a876c11295c6" width="700" height="400"> 
+</p>
 
-**:black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[TOOLS](#tools)  :black_square_button:[TECHNICAL SKILLS](#technicalskills) :black_square_button:[SOFT SKILLS](#softskills)**
+
 
 ---------------------
 
@@ -14,10 +20,6 @@
 
 
 <p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
-
-<p align="center" </p>
-<img src="https://github.com/acelmer/portfolio/assets/145276189/7120610b-a4d2-4c7e-a5e7-b68dc234ced9" width="1000" height="400">
-</p>
 
 
 ## PROJECTS <a name="projects"></a>
