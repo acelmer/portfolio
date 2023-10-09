@@ -1,4 +1,4 @@
-# Software Tester - portfolio <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+# Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
 
 ## ABOUT ME
 <p align="center" </p>
