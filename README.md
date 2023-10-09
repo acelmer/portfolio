@@ -16,12 +16,12 @@
 
 <p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
 
-<p align="center" </p><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</p></a>
+<p align="center" </p><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</p></a></b></a>
 
 
 ## Projects <a name="projects"></a>
 
-:white_square_button:Test cases based on use case
+:white_square_button:**Test cases based on use case**
   
 - [Empik Web Application Use Case & Test Cases](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
@@ -52,6 +52,4 @@
 
 :white_square_button:**Technical skills**:  SQL, Python basics, HTML/CSS basics
 
-:white_square_button:**Soft skills**:  Analytical mindset, , Attention to detail, Problem solving skills, Communication skills, , Team player, 
-
-Time management, Organization skills, High sense of responsibility
+:white_square_button:**Soft skills**:  Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
