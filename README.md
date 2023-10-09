@@ -1,11 +1,11 @@
-# Software Tester - portfolio 
+# Software Tester portfolio - Aleksandra Celmer
 
 <p align="center" </p>
 <img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
 </p>
 
 ## Table of contents
-**:black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[TOOLS](#tools)  :black_square_button:[TECHNICAL SKILLS](#technicalskills) :black_square_button:[SOFT SKILLS](#softskills)**
+**:black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[SKILLS](#skills)**
 
 ---------------------
 
@@ -43,7 +43,7 @@
 
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
 
-## Skills <a name="tools"></a>
+## Skills <a name="skills"></a>
 
 :white_square_button:**Tools**: Jira, Confluence, Postman, GitHub, SAP, Microsoft Teams
 
