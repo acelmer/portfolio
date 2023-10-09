@@ -1,22 +1,16 @@
-# Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
-## Table of contents
-<img style="float: right;" src="https://github.com/acelmer/portfolio/assets/145276189/4a585771-f9bb-4af1-a3e2-a876c11295c6">
-**:black_square_button:[ABOUT ME](#introduction) 
-:black_square_button:[PROJECTS](#projects)   
-:black_square_button:[CERTIFICATES](#certificates)  
-:black_square_button:[TOOLS](#tools)  
-:black_square_button:[TECHNICAL SKILLS](#technicalskills) 
-:black_square_button:[SOFT SKILLS](#softskills)**
-<p align="right" </p>
-<img src="https://github.com/acelmer/portfolio/assets/145276189/4a585771-f9bb-4af1-a3e2-a876c11295c6" width="700" height="400"> 
+# Software Tester - portfolio 
+
+<p align="center" </p>
+<img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
 </p>
 
-
+## Table of contents
+**:black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[TOOLS](#tools)  :black_square_button:[TECHNICAL SKILLS](#technicalskills) :black_square_button:[SOFT SKILLS](#softskills)**
 
 ---------------------
 
-## ABOUT ME <a name="introduction"></a>
-<p align="justify">My name is Aleksandra Celmer. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
+## ABOUT ME <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"><a name="introduction"></a>
+<p align="justify">My name is <b>Aleksandra Celmer</b>. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
 
 
 <p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
