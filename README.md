@@ -1,10 +1,10 @@
 # Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
 
 ## ABOUT ME
-My name is Aleksandra Celmer. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as **great communication** and **problem-solving skills** I started to seek **new challenges** and personal opportunities. As a **detail-oriented** person with a strong **passion for technology** I decided to self-develop in **Software Testing**. 
+<p align="justify">My name is Aleksandra Celmer. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
 
 
-Recently I have done **ISTQB certification**, and I have obtained a solid foundation in **testing methodologies**, **test planning**, and **defect reporting**. Furthermore, I have learned such tools as **Jira**, **Confluence** and **Postman**. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into **quality assurance practices** and **test automation** in the future.
+<p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
 
 <p align="center" </p>
 <img src="https://github.com/acelmer/portfolio/assets/145276189/7120610b-a4d2-4c7e-a5e7-b68dc234ced9" width="1000" height="400">
