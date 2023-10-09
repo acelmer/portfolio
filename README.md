@@ -1,6 +1,6 @@
 # Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
 ### Table of contents
-:eight_spoked_asterisk: [ABOUT ME](#introduction)   :eight_spoked_asterisk: [PROJECTS](#projects)   :eight_spoked_asterisk:[CERTIFICATES](#certificates)  :eight_spoked_asterisk:[TOOLS](#tools)  :eight_spoked_asterisk:[TECHNICAL SKILLS](#technicalskills) :eight_spoked_asterisk:[SOFT SKILLS](#softskills)
+:black_square_button: [ABOUT ME](#introduction)  &nbsp :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[TOOLS](#tools)  :black_square_button:[TECHNICAL SKILLS](#technicalskills) :black_square_button:[SOFT SKILLS](#softskills)
 
 ## ABOUT ME <a name="introduction"></a>
 <p align="justify">My name is Aleksandra Celmer. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
@@ -11,6 +11,7 @@
 <p align="center" </p>
 <img src="https://github.com/acelmer/portfolio/assets/145276189/7120610b-a4d2-4c7e-a5e7-b68dc234ced9" width="1000" height="400">
 </p>
+
 
 ## PROJECTS <a name="projects"></a>
 ## SQL Tasks
