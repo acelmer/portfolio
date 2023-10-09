@@ -48,10 +48,10 @@
 
 ## Skills <a name="skills"></a>
 
-:white_square_button:**Tools**: Jira, Confluence, Postman, GitHub, SAP, Microsoft Teams
+:white_square_button:**Tools**:  Jira, Confluence,  Postman, GitHub, SAP, Microsoft Teams
 
-:white_square_button:**Technical skills**: SQL, Python basics, HTML/CSS basics
+:white_square_button:**Technical skills**:  SQL, Python basics, HTML/CSS basics
 
-:white_square_button:**Soft skills**: Analytical mindset, , Attention to detail, Problem solving skills, Communication skills, , Team player, 
+:white_square_button:**Soft skills**:  Analytical mindset, , Attention to detail, Problem solving skills, Communication skills, , Team player, 
 
 Time management, Organization skills, High sense of responsibility
