@@ -31,6 +31,11 @@
 
 - [SQL - Advanced tasks](SQL.md)
 
+:white_square_button:**Postman - library API testing**
+
+- [Postman Library API Collection](Postman Library API.postman_collection.json)
+
+
 ## Certificates <a name="certificates"></a>
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
