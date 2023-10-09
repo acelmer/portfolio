@@ -21,18 +21,18 @@
 
 - [SQL - Advanced tasks](SQL.md)
 
-:white_square_button:**Test Cases based on Use Case**
+:white_square_button:**Test cases based on use case**
   
 - [Empik Web Application Use Case & Test Cases](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
-:white_square_button:**Test Cases based on Explorary Testing**
+:white_square_button:**Test cases based on explorary eesting**
   
 - [Netflix Web Application Test Cases](https://docs.google.com/spreadsheets/d/17psA1ZYsGVYgK4_7y0Cx8vZgoUuNNylW/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
 
-## Bug Report - example 
-<img src="https://github.com/acelmer/portfolio/assets/145276189/eeaf36d8-982f-480b-84d0-edc1ea4d4b85" align="center" width="100" height="50">**Web Application Testing**
+:white_square_button:**Bug report - testing web application**
 
-:white_square_button: [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
+
+- [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
 
 ## CERTIFICATES <a name="certificates"></a>
@@ -45,38 +45,14 @@
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
 
 ## TOOLS <a name="tools"></a>
-- **Jira**
-
-- **Confluence**
-
-- **Postman**
-
-- **GitHub**
+:white_square_button: **Jira** :white_square_button: **Confluence** :white_square_button: **Postman** :white_square_button: **GitHub**
 
 ## TECHNICAL SKILLS <a name="technicalskills"></a>
 
-- **SQL**
-- **Python basics**
-- **HTML/CSS basics**
+:white_square_button: **SQL** :white_square_button: **Python basics** :white_square_button: **HTML/CSS basics**
 
 ## SOFT SKILLS <a name="softskills"></a>
 
-- **Team player**
-  
-- **Analytical mindset**
-  
-- **Organization skills**
+:white_square_button: **Team player** :white_square_button: **Analytical mindset** :white_square_button: **Organization skills** :white_square_button: **Attention to detail** :white_square_button:**Communication skills** :white_square_button: **Problem solving skills**
 
-- **Attention to detail**
-  
-- **Communication skills**
-
-- **Problem solving skills**
-
-- **Time management**
-
-- **Proactive attitude**
-
-- **Eagerness to learn new tools**
-
-- **High sense of responsibility**
+ :white_square_button:**Time management** :white_square_button: **Proactive attitude** :white_square_button:**Eagerness to learn new tools** :white_square_button:**High sense of responsibility**
