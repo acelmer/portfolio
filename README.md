@@ -1,7 +1,9 @@
 # Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
 
 ## Table of contents
+---------------------
 :black_square_button:[ABOUT ME](#introduction) :black_square_button:[PROJECTS](#projects)   :black_square_button:[CERTIFICATES](#certificates)  :black_square_button:[TOOLS](#tools)  :black_square_button:[TECHNICAL SKILLS](#technicalskills) :black_square_button:[SOFT SKILLS](#softskills)
+------------------------------------------
 
 
 ## ABOUT ME <a name="introduction"></a>
