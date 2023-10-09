@@ -1,6 +1,8 @@
-# Software Tester - portfolio
+# Software Tester - portfolio <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+
+## ABOUT ME
 <p align="center" </p>
-<img src="![2305 q894 032 S m009 c12 testing software bug flat collage](https://github.com/acelmer/portfolio/assets/145276189/88cb04f1-3e1d-412f-941d-524472d9b338)" width="500" height="300">
+<img src="https://github.com/acelmer/portfolio/assets/145276189/7120610b-a4d2-4c7e-a5e7-b68dc234ced9" width="1000" height="400">
 </p>
 
 ## PROJECTS
@@ -16,7 +18,7 @@
   
 :white_square_button: [Netflix Web Application Test Cases](https://docs.google.com/spreadsheets/d/17psA1ZYsGVYgK4_7y0Cx8vZgoUuNNylW/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
 
-## Bug Report - example <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50">
+## Bug Report - example 
 <img src="https://github.com/acelmer/portfolio/assets/145276189/eeaf36d8-982f-480b-84d0-edc1ea4d4b85" align="center" width="100" height="50">**Web Application Testing**
 
 :white_square_button: [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
