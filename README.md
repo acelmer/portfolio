@@ -1,6 +1,6 @@
 # Software Tester - portfolio
 <p align="center" </p>
-<img src="https://github.com/acelmer/portfolio/assets/145276189/feea1f7b-ccf1-40bd-adc8-f4543a76d993" width="400" height="200">
+<img src="![2305 q894 032 S m009 c12 testing software bug flat collage](https://github.com/acelmer/portfolio/assets/145276189/88cb04f1-3e1d-412f-941d-524472d9b338)" width="500" height="300">
 </p>
 
 ## PROJECTS
