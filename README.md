@@ -21,7 +21,7 @@
 
 ## Projects <a name="projects"></a>
 
-:white_square_button:**Test cases based on use case**
+:white_square_button:Test cases based on use case
   
 - [Empik Web Application Use Case & Test Cases](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
@@ -48,7 +48,7 @@
 
 ## Skills <a name="skills"></a>
 
-:white_square_button:**Tools**:  Jira, Confluence,  Postman, GitHub, SAP, Microsoft Teams
+:white_square_button:<b>Tools</b>:  Jira, Confluence,  Postman, GitHub, SAP, Microsoft Teams
 
 :white_square_button:**Technical skills**:  SQL, Python basics, HTML/CSS basics
 
