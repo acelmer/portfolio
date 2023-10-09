@@ -23,15 +23,15 @@
   
 - [Netflix Web Application Test Cases](https://docs.google.com/spreadsheets/d/17psA1ZYsGVYgK4_7y0Cx8vZgoUuNNylW/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
 
-:white_square_button:**Bug report - testing web application**
+:white_square_button:**Bug report for InPost web application**
 
 - [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
-:white_square_button: **SQL Tasks**
+:white_square_button: **Database testing**
 
-- [SQL - Advanced tasks](SQL.md)
+- [SQL tasks](SQL.md)
 
-:white_square_button:**Postman - library API testing**
+:white_square_button:**Postman Library API testing**
 
 - [Postman Library API Collection](Postman%20Library%20API.postman_collection.json)
 
