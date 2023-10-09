@@ -1,6 +1,13 @@
 # Software Tester <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> - portfolio 
+# Table of contents
+1. [ABOUT ME](#introduction)
+2. [PROJECTS](#projects)
+3. [CERTIFICATES](#certificates)
+4. [TOOLS](#tools)
+5. [TECHNICAL SKILLS](#technicalskills)
+6. [SOFT SKILLS](#softskilla)
 
-## ABOUT ME
+## ABOUT ME <a name="introduction"></a>
 <p align="justify">My name is Aleksandra Celmer. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
 
 
@@ -10,7 +17,7 @@
 <img src="https://github.com/acelmer/portfolio/assets/145276189/7120610b-a4d2-4c7e-a5e7-b68dc234ced9" width="1000" height="400">
 </p>
 
-## PROJECTS
+## PROJECTS <a name="projects"></a>
 ## SQL Tasks
 :white_square_button: [SQL - Advanced tasks](SQL.md)
 
@@ -29,7 +36,7 @@
 :white_square_button: [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
 
-## CERTIFICATES
+## CERTIFICATES <a name="certificates"></a>
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
 :white_check_mark: [Postman API Fundamentals Student Expert](https://drive.google.com/file/d/1zcR4zhPTtEmgdxzC-ZyQsk5D5v0dnw9d/view?usp=drive_link)
@@ -38,7 +45,7 @@
 
 :white_check_mark: [Confluence Fundamentals](https://university.atlassian.com/student/award/qrDA5NcHd6SYEDesCZcJVetP)
 
-## TOOLS
+## TOOLS <a name="tools"></a>
 - **Jira**
 
 - **Confluence**
@@ -47,13 +54,14 @@
 
 - **GitHub**
 
-## TECHNICAL SKILLS
+## TECHNICAL SKILLS <a name="technicalskills"></a>
 
 - **SQL**
 - **Python basics**
 - **HTML/CSS basics**
 
-## SOFT SKILLS
+## SOFT SKILLS <a name="softskills"></a>
+
 - **Team player**
   
 - **Analytical mindset**
