@@ -1,5 +1,5 @@
 #  Car Dealership
-### Create an ERD for a car dealership. The dealership sells both new and used cars, and it operates a service facility. Base your design on the following business rules:
+### Create a database schema for a car dealership. The dealership sells both new and used cars, and it operates a service facility. Base your design on the following business rules:
 - A salesperson may sell many cars, but each car is sold by only one salesperson.
 - A customer may buy many cars, but each car is bought by only one customer.
 - A salesperson writes a single invoice for each car he or she sells.
