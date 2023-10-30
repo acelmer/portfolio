@@ -27,9 +27,10 @@
 
 - [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
-:white_square_button: **Database testing**
+:white_square_button: **SQL**
 
 - [SQL database queries](SQL.md)
+- [SQL database schema](SQLdatabasedesign.md)
 
 :white_square_button:**Postman Library API testing**
 
