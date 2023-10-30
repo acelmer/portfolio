@@ -29,7 +29,7 @@
 
 :white_square_button: **Database testing**
 
-- [SQL tasks](SQL.md)
+- [SQL database queries](SQL.md)
 
 :white_square_button:**Postman Library API testing**
 
