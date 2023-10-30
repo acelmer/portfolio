@@ -30,7 +30,7 @@
 :white_square_button: **SQL**
 
 - [SQL database queries](SQL.md)
-- [SQL database schema](SQLdatabasedesign.md)
+- [SQL database design](SQL%database%design.md)
 
 :white_square_button:**Postman Library API testing**
 
