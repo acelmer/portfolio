@@ -1,6 +1,6 @@
 # Aleksandra Celmer - Software Tester portfolio 
 
-<p align="center" </p>
+<p align="center">
 <img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
 </p>
 
@@ -11,7 +11,7 @@
 
 <p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
 
-<p align="center" </p><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</p></a></b></a>
+<p align="center"><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</a></b></p>
 
 ## Projects <img src="https://github.com/acelmer/portfolio/assets/145276189/2e6edf10-51f5-4821-af32-aece90a2b6b5" align="center" width="45" height="45"> 
 
