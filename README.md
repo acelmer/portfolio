@@ -15,16 +15,10 @@
 
 ## Projects <img src="https://github.com/acelmer/portfolio/assets/145276189/2e6edf10-51f5-4821-af32-aece90a2b6b5" align="center" width="45" height="45"> 
 
-:white_square_button:**Test cases based on use case**
+:white_square_button:**Manual testing**
   
-- [Empik Web Application Use Case & Test Cases](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
-
-:white_square_button:**Test cases based on explorary testing**
-  
-- [Netflix Web Application Test Cases](https://docs.google.com/spreadsheets/d/17psA1ZYsGVYgK4_7y0Cx8vZgoUuNNylW/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
-
-:white_square_button:**Bug report for InPost web application**
-
+- [Empik Web Application Test Cases - based on use case](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
+- [Netflix Web Application Test Cases - based on exploratory testing](https://docs.google.com/spreadsheets/d/17psA1ZYsGVYgK4_7y0Cx8vZgoUuNNylW/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
 - [InPost Web Application Bug Report](https://docs.google.com/spreadsheets/d/1XV4nUL59xOcEjUJ4TvtGdAf3-VCu9XNG/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true) 
 
 :white_square_button: **SQL**
