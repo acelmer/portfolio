@@ -29,15 +29,15 @@
 
 :white_square_button: **SQL**
 
-- [SQL database queries](SQL.md)
-- [SQL database design](SQL%20database%20design.md)
+- [Database queries](SQL.md)
+- [Database design](SQL%20database%20design.md)
 
 :white_square_button:**Postman API testing**
 
-- [Postman Trello](Postman/Trello.postman_collection.json)
-- [Postman Todoist API](Postman/Todoist.postman_collection.json)
-- [Postman Library API](Postman/Postman%20Library%20API.postman_collection.json)
-- [Postman NBP API](Postman/NBP.postman_collection.json)
+- [Trello API](Postman/Trello.postman_collection.json)
+- [Todoist API](Postman/Todoist.postman_collection.json)
+- [Library API](Postman/Postman%20Library%20API.postman_collection.json)
+- [NBP API](Postman/NBP.postman_collection.json)
 
 
 
