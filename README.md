@@ -34,7 +34,7 @@
 
 :white_square_button:**Postman API testing**
 
-- [Trello API](Postman/Trello.postman_collection.json)
+- [Trello API](Postman/Trello.md)
 - [Todoist API](Postman/Todoist.postman_collection.json)
 - [Library API](Postman/Postman%20Library%20API.postman_collection.json)
 - [NBP API](Postman/NBP.postman_collection.json)
