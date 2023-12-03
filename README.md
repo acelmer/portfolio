@@ -32,9 +32,13 @@
 - [SQL database queries](SQL.md)
 - [SQL database design](SQL%20database%20design.md)
 
-:white_square_button:**Postman Library API testing**
+:white_square_button:**Postman API testing**
 
-- [Postman Library API Collection](Postman%20Library%20API.postman_collection.json)
+- [Postman Trello](Postman/Trello.postman_collection.json)
+- [Postman Todoist API](Postman/Todoist.postman_collection.json)
+- [Postman Library API](Postman/Postman%20Library%20API.postman_collection.json)
+- [Postman NBP API](Postman/NBP.postman_collection.json)
+
 
 
 ## Certificates <img src="https://github.com/acelmer/portfolio/assets/145276189/96f37b77-65d6-4515-a46d-2170cfd5f3b1" align="center" width="50" height="50"> 

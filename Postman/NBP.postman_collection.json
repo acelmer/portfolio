@@ -1,0 +1,165 @@
+{
+	"info": {
+		"_postman_id": "f0a8d1b7-0d02-4372-be95-c055c02a4107",
+		"name": "NBP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "30281538"
+	},
+	"item": [
+		{
+			"name": "Get all exchange  rates",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/tables/A/",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"tables",
+						"A",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a single exchange rate",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/rates/A/USD",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"rates",
+						"A",
+						"USD"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a single exchange rate according to date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{baseURL}}/rates/A/EUR/2023-11-30/",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"rates",
+						"A",
+						"EUR",
+						"2023-11-30",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a current gold price",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.nbp.pl/api/cenyzlota/",
+					"protocol": "http",
+					"host": [
+						"api",
+						"nbp",
+						"pl"
+					],
+					"path": [
+						"api",
+						"cenyzlota",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a current gold price according to date",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.nbp.pl/api/cenyzlota/2023-01-30/",
+					"protocol": "http",
+					"host": [
+						"api",
+						"nbp",
+						"pl"
+					],
+					"path": [
+						"api",
+						"cenyzlota",
+						"2023-01-30",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get a current gold price published from - to",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://api.nbp.pl/api/cenyzlota/2013-01-01/2013-01-31/",
+					"protocol": "http",
+					"host": [
+						"api",
+						"nbp",
+						"pl"
+					],
+					"path": [
+						"api",
+						"cenyzlota",
+						"2013-01-01",
+						"2013-01-31",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "baseURL",
+			"value": "http://api.nbp.pl/api/exchangerates",
+			"type": "string"
+		}
+	]
+}
