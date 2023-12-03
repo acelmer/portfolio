@@ -29,8 +29,8 @@
 
 :white_square_button: **SQL**
 
-- [Database queries](SQL.md)
-- [Database design](SQL%20database%20design.md)
+- [Database queries](SQL/SQL.md)
+- [Database design](SQL/SQL%20database%20design.md)
 
 :white_square_button:**Postman API testing**
 
@@ -54,6 +54,6 @@
 
 :white_square_button:<b>Tools</b>: Jira, Confluence, Postman, GitHub, SAP, Microsoft Teams, MS Office
 
-:white_square_button:**Technical skills**: SQL, Python basics, HTML/CSS basics
+:white_square_button:**Technical skills**: Git, SQL, Python basics, HTML/CSS basics
 
 :white_square_button:**Soft skills**: Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
