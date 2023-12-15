@@ -28,10 +28,10 @@
 
 :white_square_button:**Postman API testing**
 
-- [Trello API](Postman/Trello.md)
-- [Todoist API](Postman/Todoist.md)
-- [Library API](Postman/Library_API.html)
-- [NBP API](Postman/NBP.md)
+- Trello API ([Postman collection](Postman/Trello.postman_collection.json) |  [Newman report](https://htmlpreview.github.io/?https://github.com/acelmer/portfolio/blob/main/Postman/Trello_API.html))
+- Todoist API ([Postman collection](Postman/Todoist.postman_collection.json) |  [Newman report](https://htmlpreview.github.io/?https://github.com/acelmer/portfolio/blob/main/Postman/Todoist_API.html))
+- Library API ([Postman collection](Postman/Library_API.postman_collection.json) |  [Newman report](https://htmlpreview.github.io/?https://github.com/acelmer/portfolio/blob/main/Postman/Library_API.html))
+- NBP API ([Postman collection](Postman/NBP.postman_collection.json) |  [Newman report](https://htmlpreview.github.io/?https://github.com/acelmer/portfolio/blob/main/Postman/NBP_API.html))
 
 
 
