@@ -30,7 +30,7 @@
 
 - [Trello API](Postman/Trello.md)
 - [Todoist API](Postman/Todoist.md)
-- [Library API](Postman/Library.md)
+- [Library API](Postman/Library_API.html)
 - [NBP API](Postman/NBP.md)
 
 
