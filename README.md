@@ -46,8 +46,8 @@
 
 ## Skills <img src="https://github.com/acelmer/portfolio/assets/145276189/75ade191-fdfe-44c5-8974-0cd7770d1652" align="center" width="45" height="45"> 
 
-:white_square_button:<b>Tools</b>: Jira, Confluence, Postman, GitHub, SAP, Microsoft Teams, MS Office
+:white_square_button:<b>Tools</b>: Jira, Confluence, Postman, Newman, GitHub, SAP, Microsoft Teams, MS Office
 
-:white_square_button:**Technical skills**: Git, SQL, Python basics, HTML/CSS basics
+:white_square_button:**Technical skills**: Git, Bash, SQL, Python / JavaScript basics, HTML/CSS basics
 
 :white_square_button:**Soft skills**: Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
