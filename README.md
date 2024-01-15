@@ -9,7 +9,9 @@
 <p align="justify">My name is <b>Aleksandra Celmer</b>. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
 
 
-<p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. Furthermore, I have learned such tools as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b>. Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
+<p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. I have learned
+tools such as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b> for testing APIs. Additionally, I have gained the ability to write automated <b>E2E tests</b> using <b>Cypress</b> and write complex <b>SQL</b> queries to manage data in <b>PostgreSQL</b>.
+Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
 
 <p align="center"><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</a></b></p>
 
@@ -46,8 +48,8 @@
 
 ## Skills <img src="https://github.com/acelmer/portfolio/assets/145276189/75ade191-fdfe-44c5-8974-0cd7770d1652" align="center" width="45" height="45"> 
 
-:white_square_button:<b>Tools</b>: Jira, Confluence, Postman, Newman, GitHub, SAP, Microsoft Teams, MS Office
+:white_square_button:<b>Tools</b>: Cypress, Postman, Newman, GitHub, Jira, Confluence,  SAP, Microsoft Teams, MS Office
 
-:white_square_button:**Technical skills**: Git, Bash, SQL, Python / JavaScript basics, HTML/CSS basics
+:white_square_button:**Technical skills**: Git, Bash, SQL, Python / JavaScript basics, HTML, CSS 
 
 :white_square_button:**Soft skills**: Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
