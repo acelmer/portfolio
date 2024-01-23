@@ -40,6 +40,8 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 ## Certificates <img src="https://github.com/acelmer/portfolio/assets/145276189/96f37b77-65d6-4515-a46d-2170cfd5f3b1" align="center" width="50" height="50"> 
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
 
+:white_check_mark: [Cypress End-to-End Testing](https://drive.google.com/file/d/1PVwH8ctNbV022fe9Aah-JdjjyM3ZASJ8/view?usp=drive_link)
+
 :white_check_mark: [Postman API Fundamentals Student Expert](https://drive.google.com/file/d/1zcR4zhPTtEmgdxzC-ZyQsk5D5v0dnw9d/view?usp=drive_link)
 
 :white_check_mark: [Jira Software Fundamentals](https://university.atlassian.com/student/award/P43BSbv88LpUbwXEpJZB1Xfk)
@@ -48,8 +50,14 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 ## Skills <img src="https://github.com/acelmer/portfolio/assets/145276189/75ade191-fdfe-44c5-8974-0cd7770d1652" align="center" width="45" height="45"> 
 
-:white_square_button:<b>Tools</b>: Cypress, Postman, Newman, GitHub, Jira, Confluence,  SAP, Microsoft Teams, MS Office
+:white_square_button:<b>Languages</b>: Python, Javascript, SQL, Bash, HTML, CSS, XPath
 
-:white_square_button:**Technical skills**: Git, Bash, SQL, Python / JavaScript basics, HTML, CSS 
+:white_square_button:<b>Testing tools</b>: Cypress, Postman, Newman, Swagger, DevTools
 
-:white_square_button:**Soft skills**: Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
+:white_square_button:<b>Testing strategies</b>: Exploratory tests, Integration tests, E2E tests, Regression tests, Functional tests, Non-functional tests, Smoke tests, UAT
+
+:white_square_button:<b>Collaboration</b>: Agile, Scrum, SDLC, Git, CI/CD, Jira, Confluence, MS Teams
+
+:white_square_button:<b>Web concepts</b>: TCP/IP, DNS, HTTP, REST API, OAuth, JSON
+
+:white_square_button:<b>Soft skills</b>: Analytical mindset, Attention to detail, Problem solving, Communication skills, Organization skills, High sense of responsibility
