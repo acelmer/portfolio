@@ -1,9 +1,5 @@
 # Aleksandra Celmer - Software Tester portfolio 
 
-<p align="center">
-<img src="https://drive.google.com/file/d/16-Oehuwku_Xc0hUJZFt38cnHF8lJAzt8/view?usp=sharing" width="600" height="200"> 
-</p>
-
 ## About me <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> 
 
 <p align="justify">My name is <b>Aleksandra Celmer</b>. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
@@ -19,9 +15,9 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 :white_square_button:**Automated testing**
 
-- [Cypress - Trello board management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/board_management.cy.js)
-- [Cypress - Trello list management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/list_management.cy.js)
-- [Cypress - Trello card management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/card_management.cy.js)
+- Cypress - [Trello board management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/board_management.cy.js)
+- Cypress - [Trello list management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/list_management.cy.js)
+- Cypress - [Trello card management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/card_management.cy.js)
 
 :white_square_button:**Postman API testing**
 
