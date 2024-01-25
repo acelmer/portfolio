@@ -1,7 +1,7 @@
 # Aleksandra Celmer - Software Tester portfolio 
 
 <p align="center">
-<img src="https://github.com/acelmer/portfolio/assets/145276189/c70e4f2a-a09c-4958-8642-5a2bd713057c" width="600" height="400"> 
+<img src="https://drive.google.com/file/d/16-Oehuwku_Xc0hUJZFt38cnHF8lJAzt8/view?usp=sharing" width="600" height="200"> 
 </p>
 
 ## About me <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> 
@@ -17,6 +17,19 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 ## Projects <img src="https://github.com/acelmer/portfolio/assets/145276189/2e6edf10-51f5-4821-af32-aece90a2b6b5" align="center" width="45" height="45"> 
 
+:white_square_button:**Automated testing**
+
+- [Cypress - Trello board management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/board_management.cy.js)
+- [Cypress - Trello list management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/list_management.cy.js)
+- [Cypress - Trello card management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/card_management.cy.js)
+
+:white_square_button:**Postman API testing**
+
+- Trello API ([Postman collection](Postman/Trello.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Trello_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
+- Todoist API ([Postman collection](Postman/Todoist.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Todoist_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
+- Library API ([Postman collection](Postman/Library_API.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Library_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
+- NBP API ([Postman collection](Postman/NBP.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/NBP.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
+
 :white_square_button:**Manual testing**
   
 - [Empik Web Application Test Cases - based on use case](https://docs.google.com/spreadsheets/d/1AN7z1e0Ny1tuo1sXdqqQgidv9GixtXoH/edit?usp=sharing&ouid=109747489750522179465&rtpof=true&sd=true)
@@ -27,15 +40,6 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 - [Database queries](SQL/SQL.md)
 - [Database design](SQL/SQL%20database%20design.md)
-
-:white_square_button:**Postman API testing**
-
-- Trello API ([Postman collection](Postman/Trello.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Trello_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- Todoist API ([Postman collection](Postman/Todoist.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Todoist_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- Library API ([Postman collection](Postman/Library_API.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Library_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- NBP API ([Postman collection](Postman/NBP.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/NBP.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-
-
 
 ## Certificates <img src="https://github.com/acelmer/portfolio/assets/145276189/96f37b77-65d6-4515-a46d-2170cfd5f3b1" align="center" width="50" height="50"> 
 :white_check_mark: [ISTQB Certified Tester - Foundation Level](https://drive.google.com/file/d/1LxLEEnz1NkOetT5S5jszJUaeEq8PilnG/view?usp=drive_link)
