@@ -15,9 +15,9 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 :white_square_button:**Automated testing**
 
-- Cypress - [Trello board management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/board_management.cy.js)
-- Cypress - [Trello list management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/list_management.cy.js)
-- Cypress - [Trello card management](https://github.com/acelmer/cypress-trello/blob/main/cypress/e2e/card_management.cy.js)
+- Cypress - [Trello website tests](https://github.com/acelmer/cypress-trello/)
+- Cypress - [E-commerce website tests](https://github.com/acelmer/cypress-ecommerce-website)
+
 
 :white_square_button:**Postman API testing**
 
