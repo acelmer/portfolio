@@ -15,9 +15,10 @@ Now I am eager to apply the knowledge and skills I've gained to real-world proje
 
 :white_square_button:**Automated testing**
 
+- Cypress - [HR system tests](https://github.com/acelmer/cypress-hr-system)
 - Cypress - [Trello website tests](https://github.com/acelmer/cypress-trello/)
 - Cypress - [E-commerce website tests](https://github.com/acelmer/cypress-ecommerce-website)
-- Cypress - [HR system tests](https://github.com/acelmer/cypress-hr-system)
+
 
 
 :white_square_button:**Postman API testing**
