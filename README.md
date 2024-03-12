@@ -1,13 +1,6 @@
-# Aleksandra Celmer - Software Tester portfolio 
+# Aleksandra Celmer - Software Tester portfolio <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> 
 
-## About me <img src="https://github.com/acelmer/portfolio/assets/145276189/1b69f685-d055-4a1c-8165-b4fabff6a441" align="center" width="50" height="50"> 
-
-<p align="justify">My name is <b>Aleksandra Celmer</b>. Over the last several years I worked for one of the well-known brewery company as a cross-functional project coordinator. Despite acquiring many valuable skills in this position such as <b>great communication</b> and <b>problem-solving skills</b> I started to seek <b>new challenges</b> and personal opportunities. As a <b>detail-oriented</b> person with a strong <b>passion for technology</b> I decided to self-develop in <b>Software Testing</b>.</p>
-
-
-<p align="justify">Recently I have done <b>ISTQB certification</b>, and I have obtained a solid foundation in <b>testing methodologies</b>, <b>test planning</b>, and <b>defect reporting</b>. I have learned
-tools such as <b>Jira</b>, <b>Confluence</b> and <b>Postman</b> for testing APIs. Additionally, I have gained the ability to write automated <b>E2E tests</b> using <b>Cypress</b> and write complex <b>SQL</b> queries to manage data in <b>PostgreSQL</b>.
-Now I am eager to apply the knowledge and skills I've gained to real-world projects and dive deeper into <b>quality assurance practices</b> and <b>test automation</b> in the future.</p>
+<p align="justify">I am an <b>ISTQB</b> certified Tester with a solid foundation in <b>testing methodologies</b>, <b>test planning</b> and <b>defect reporting</b>. I possess hands-on experience in testing various types of applications, including UI and web applications. I am proficient in executing both <b>manual</b> and <b>automated</b> tests.</p>
 
 <p align="center"><b><a href="https://www.linkedin.com/in/aleksandra-celmer-347805164/">Visit my LinkedIn profile.</a></b></p>
 
