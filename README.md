@@ -16,10 +16,10 @@
 
 :white_square_button:**Postman API testing**
 
-- Trello API ([Postman collection](Postman/Trello.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Trello_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- Todoist API ([Postman collection](Postman/Todoist.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Todoist_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- Library API ([Postman collection](Postman/Library_API.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/Library_API.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
-- NBP API ([Postman collection](Postman/NBP.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/portfolio/main/Postman/NBP.html?fbclid=IwAR0gMGeBEQFCsXhB1gJuS4DtiBNUDSP2bwyWvgNVO8krYOMu1WhSlrIgHyg))
+- Trello API ([Postman collection](https://github.com/acelmer/postman-API-testing/blob/master/Trello/Trello.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/postman-API-testing/master/Trello/Trello_API.html))
+- Todoist API ([Postman collection](https://github.com/acelmer/postman-API-testing/blob/master/Todoist/Todoist.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/postman-API-testing/master/Todoist/Todoist_API.html))
+- Library API ([Postman collection](https://github.com/acelmer/postman-API-testing/blob/master/Library/Library_API.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/postman-API-testing/master/Library/Library_API.html))
+- NBP API ([Postman collection](https://github.com/acelmer/postman-API-testing/blob/master/NBP/NBP.postman_collection.json) |  [Newman report](https://raw.githack.com/acelmer/postman-API-testing/master/NBP/NBP.html))
 
 :white_square_button:**Manual testing**
   
